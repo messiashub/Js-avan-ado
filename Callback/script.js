@@ -14,3 +14,9 @@ function listarUsuarios(){
 }
 
 inserirUsuario("Igor",listarUsuarios);
+
+function eu(){
+    console.log("eu");
+}
+
+eu();
