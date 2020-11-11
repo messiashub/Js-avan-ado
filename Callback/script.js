@@ -15,4 +15,3 @@ function listarUsuarios(){
 
 inserirUsuario("Igor",listarUsuarios);
 
-console.log(eu);
